@@ -1,0 +1,16 @@
+img{
+    height:250px;
+    float: right;
+    width: 150px;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: blue;
+    font-size: larger;
+    float: center;
+}
+.intro{
+    color:red;
+}

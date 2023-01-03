@@ -1,0 +1,16 @@
+
+.navbar { color: deeppink;
+    border-radius: 45px;
+
+}
+.navbar{
+    overflow: auto;
+}
+.navbar{
+    list-style:none ;
+
+}
+
+.navbar li{ float: left;
+    
+}
